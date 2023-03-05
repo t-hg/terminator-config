@@ -2,6 +2,7 @@
   handle_size = 5
   scroll_tabbar = True
   inactive_color_offset = 1.0
+  window_state = maximise
 [keybindings]
   zoom_in = <Primary>plus
   zoom_out = <Primary>minus
